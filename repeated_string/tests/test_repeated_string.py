@@ -15,4 +15,4 @@ class TestRepeatedString(TestCase):
 
     def test_case7(self):
         self.assertEqual(repeated_string(
-            'kmretasscityylpdhuwjirnqimlkcgxubxmsxpypgzxtenweirknjtasxtvxemtwxuarabssvqdnktqadhyktagjxoanknhgilnm', 736778906400), 51574523448)
+            'kmretasscityylpdhuwjirnqimlkcgxubxmsxpypgzxtenweirknjtasxtvxemtwxuarabssvqdnktqadhyktagjxoanknhgilnm', 736778906400), 51574523448)  # NoQA
