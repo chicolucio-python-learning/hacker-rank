@@ -1,6 +1,9 @@
 # vscode
 .vscode/
 
+# venv
+.hackerrank/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
